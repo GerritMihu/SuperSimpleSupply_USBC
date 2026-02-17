@@ -945,6 +945,12 @@
           "label": "Config",
           "name": "Config",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1026,14 +1032,14 @@
   ],
   "text_variables": {
     "ASSEMBLY_NOTES": "",
-    "BOARD_NAME": "Board Name",
-    "COMPANY": "Company Name",
-    "DESIGNER": "Author",
+    "BOARD_NAME": "USB-C_Supply_Board",
+    "COMPANY": "HTL Steyr",
+    "DESIGNER": "Gerrit Mitterhuemer",
     "FABRICATION_NOTES": "",
     "GIT_HASH_PCB": "d807859",
     "GIT_HASH_SCH": "5dcef65",
-    "GIT_URL": "https://github.com/nguyen-v/KDT_Hierarchical_KiBot",
-    "PROJECT_NAME": "Project Name",
+    "GIT_URL": "https://github.com/GerritMihu/SuperSimpleSupply_USBC",
+    "PROJECT_NAME": "SuperSimpleSupply",
     "RELEASE_BODY_1.0.0": "",
     "RELEASE_BODY_1.0.1": "",
     "RELEASE_BODY_1.0.2": "",
