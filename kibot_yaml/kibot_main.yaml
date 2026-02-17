@@ -557,14 +557,14 @@ definitions:
 
   # Metadata ===================================================================
 
-  PROJECT_NAME: Project Name
-  BOARD_NAME: Board Name
+  PROJECT_NAME: SuperSimpleSupply
+  BOARD_NAME: USB-C_Supply_Board
 
-  COMPANY: Company Name
-  DESIGNER: Author
+  COMPANY: HTL Steyr
+  DESIGNER: Gerrit Mitterhuemer
 
   LOGO: 'Logos/dummy_logo.png'
-  GIT_URL: 'https://github.com/nguyen-v/KDT_Hierarchical_KiBot'
+  GIT_URL: 'https://github.com/GerritMihu/SuperSimpleSupply_USBC'
 
   # Preflight ==================================================================
 
