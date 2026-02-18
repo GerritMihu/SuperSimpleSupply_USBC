@@ -28,7 +28,7 @@
 
 | Parameter | Value | 
 | --- | --- |
-| Dimensions | N/A × N/A mm |
+| Dimensions | 30.5 × 13.0 mm |
 
 ***
 

@@ -1,0 +1,61 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7+1*%
+%TF.CreationDate,Date%
+%TF.ProjectId,SuperSimpleSupply_USBC,53757065-7253-4696-9d70-6c6553757070,+ (Unreleased)*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11C,1.700000*%
+%TD*%
+%TA.AperFunction,HeatsinkPad*%
+%ADD12O,1.700000X1.100000*%
+%TD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD13C,1.500000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J2,1,Pin_1*%
+%TO.N,VBUS*%
+X155460000Y-93960000D03*
+D11*
+%TO.P,J2,2,Pin_2*%
+X158000000Y-93960000D03*
+%TO.P,J2,3,Pin_3*%
+X155460000Y-96500000D03*
+%TO.P,J2,4,Pin_4*%
+X158000000Y-96500000D03*
+%TO.P,J2,5,Pin_5*%
+%TO.N,GNDD*%
+X155460000Y-99040000D03*
+%TO.P,J2,6,Pin_6*%
+X158000000Y-99040000D03*
+%TO.P,J2,7,Pin_7*%
+X155460000Y-101580000D03*
+%TO.P,J2,8,Pin_8*%
+X158000000Y-101580000D03*
+%TD*%
+D12*
+%TO.P,J1,S1,SHIELD*%
+%TO.N,GNDD*%
+X136000000Y-93180000D03*
+X132200000Y-93180000D03*
+X136000000Y-101820000D03*
+X132200000Y-101820000D03*
+%TD*%
+D13*
+%TO.P,FID1,*%
+%TO.N,*%
+X132000000Y-97500000D03*
+%TD*%
+M02*

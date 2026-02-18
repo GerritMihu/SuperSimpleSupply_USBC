@@ -1,0 +1,33 @@
+** Drc report for SuperSimpleSupply_USBC.kicad_pcb **
+** Created on 2026-02-18T09:02:00+0000 **
+
+** Found 7 DRC violations **
+[lib_footprint_mismatch]: Footprint 'PinHeader_2x04_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
+    ; warning
+    @(155.46 mm, 93.96 mm): Footprint J2
+[lib_footprint_mismatch]: Footprint 'LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder' does not match copy in library 'LED_SMD'.
+    ; warning
+    @(147.5 mm, 100.9275 mm): Footprint D1
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(148.5 mm, 97.0 mm): Footprint R3
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(141.0 mm, 98.0 mm): Footprint R1
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' does not match copy in library 'Resistor_SMD'.
+    ; warning
+    @(145.5 mm, 98.0 mm): Footprint R2
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    ; warning (excluded)
+    @(151.5 mm, 93.0 mm): Pad [<no net>] of FID2 on L1 (Sig, PWR)
+    @(129.5 mm, 102.0 mm): Zone [GNDD] on L1 (Sig, PWR), priority 0
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    ; warning (excluded)
+    @(139.5 mm, 102.0 mm): Pad [<no net>] of FID3 on L1 (Sig, PWR)
+    @(129.5 mm, 102.0 mm): Zone [GNDD] on L1 (Sig, PWR), priority 0
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
